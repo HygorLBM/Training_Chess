@@ -12,4 +12,4 @@ decided to post here since it is a simple sample of how to use trees for decisio
 
 ![Alt text](https://i.imgur.com/I9xkBq1.png "A sample screenshot")
 
-This application is a Windows Form, built using Visual Studios.
+This application is a Windows Form, built using Microsoft Visual Studios IDE.
