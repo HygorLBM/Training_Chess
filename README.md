@@ -5,7 +5,7 @@ Each turn moves the decision tree for the next level while the A.I tries to esca
 Is possible to win, to lose by being checkmated, or to lose by failing to checkmate in 3 turns.
 
 This application is just a old assignment given to teach students how to use tree structures.
-While the interface and implementation is not optimal by any means, I still
+While the interface and implementation are not optimal by any means, I still
 decided to post here since it is a simple sample of how to use trees for decision making.
 
 
